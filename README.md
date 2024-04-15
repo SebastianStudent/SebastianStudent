@@ -1,6 +1,6 @@
 ### Hello there 👋😊
 
-- 📫 I.m third year computer science student
+- 📫 I.m fourth year computer science student
 - 🌱 I’m currently learning XAML
 - 🗣  My nationality is Polish, but I also speak English
 - 😄 Programming is my passion

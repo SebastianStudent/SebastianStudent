@@ -1,7 +1,7 @@
 ### Hello there 👋😊
 
 - 📫 I.m fourth year computer science student
-- 🌱 I’m currently learning XAML
+- 🌱 I’m currently learning Unity
 - 🗣  My nationality is Polish, but I also speak English
 - 😄 Programming is my passion
 - 💪 In free time I spending in gym
